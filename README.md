@@ -9,7 +9,7 @@
 ♻️ Tecnologia Verde
 
 # Situação Atual
-🤓 Atualmente sou estudante do ensino médio, cursando Automação Industrial com I.A.
+🤓 Atualmente sou estudante do ensino médio no sesi (2/3), cursando Automação Industrial com I.A. no senai 
 
 # Tecnologias que uso
 
