@@ -21,7 +21,7 @@
 
 <div aling="center">
   <img src="https://skillicons.dev/icons?i=github,html,py">
-  <img src="https://cdn.discordapp.com/attachments/1109852762272968884/1371212802735345794/gemini-color_copiar.png?ex=682250f0&is=6820ff70&hm=5afa07f4837ab35e760636bce67546f83c66de7028b6a3ad5313aec4cdc64b89&" width=48 heith=48>
+  <img src="https://cdn.discordapp.com/attachments/1109852762272968884/1371212802735345794/gemini-color_copiar.png?ex=682250f0&is=6820ff70&hm=5afa07f4837ab35e760636bce67546f83c66de7028b6a3ad5313aec4cdc64b89&" style="margin-left: 20px;" width=48 heith=48>
 </div>
 
 # Contact
