@@ -28,6 +28,8 @@
 
 <a href = "mailto:henrique260208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+![Perol203 github stats](https://github-readme-stats.vercel.app/api?username=Perol203&show_icons=false&theme=dark)
+
     ------- snake animation ------
 <div align="center">
   <br>
