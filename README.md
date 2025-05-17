@@ -14,13 +14,13 @@
 # Technologies I use
 
 <div aling="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ai,vscode"
+  <img src="https://skillicons.dev/icons?i=ps,pr,ai,vscode,py"
 </div>
   
 # Learning
 
 <div aling="center">
-  <img src="https://skillicons.dev/icons?i=github,html,py,gcp">
+  <img src="https://skillicons.dev/icons?i=github,html,gcp,flutter,cpp,">
 </div>
 
 # Contact
@@ -37,6 +37,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Perol203tempewda/Perol203/output/github-contribution-grid-snake.svg">
   </picture>
+
   </br>  
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
