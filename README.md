@@ -9,7 +9,7 @@
 ♻️ Green Technology
 
 # Current Situation
-🤓 I'm currently a high school student at SESI (2/3), studying Industrial Automation with AI at SENAI
+🤓I'm currently studying Python Full-Stack at Ebac
 
 # Technologies I use
 
@@ -26,8 +26,6 @@
 # Contact
 
 <a href = "mailto:henrique260208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-![Perol203 github stats](https://github-readme-stats.vercel.app/api?username=Perol203&show_icons=false&theme=dark)
 
     ------- snake animation ------
 <div align="center">
