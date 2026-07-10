@@ -14,15 +14,9 @@
 # Technologies I use
 
 <div aling="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ai,vscode,py"
+  <img src="https://skillicons.dev/icons?i=ps,flutter,css,py,html,js,">
 </div>
   
-# Learning
-
-<div aling="center">
-  <img src="https://skillicons.dev/icons?i=github,html,gcp,flutter,cpp,">
-</div>
-
 # Contact
 
 <a href = "mailto:henrique260208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
